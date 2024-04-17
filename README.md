@@ -1,7 +1,7 @@
 # Real-time-markdown-editor
 
 **Output** </br></br>
-Folder ScreenRecordingOutput contains recording of the output for convinience. Output recording shows working of app.
+File ScreenRecordingOutput in root directory contains recording of the output for convinience. Output recording shows working of app.
 </br>
 </br>
 
